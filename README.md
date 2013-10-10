@@ -13,7 +13,7 @@ lilypond file.ly
 
 Any `ly` files that have a:
 
-``` lilypond
+``` latex
 \score {
   % ...
   \layout {}
